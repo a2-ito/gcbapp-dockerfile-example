@@ -1,3 +1,3 @@
 #!/bin/sh
 echo "Hello, world!"
-echo "The time is $(date)."
+echo "hoge - The time is $(date)."
